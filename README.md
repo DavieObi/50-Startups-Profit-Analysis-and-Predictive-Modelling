@@ -1,7 +1,5 @@
 # Startups Profit Analysis and Predictive Modelling
 
-An analysis and a Machine Learning model that predicts startup profitability based on R&D, Administration, and Marketing spend in different states using a trained model.
-
 ---
 
 ## Project Overview
