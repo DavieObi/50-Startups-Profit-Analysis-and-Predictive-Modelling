@@ -1,6 +1,6 @@
 # Startups Profit Analysis and Predictive Modelling
 
-An analysis and a Machine Learning-based web application that predicts startup profitability based on R&D, Administration, and Marketing spend in different states using a trained model deployed with Streamlit.
+An analysis and a Machine Learning model that predicts startup profitability based on R&D, Administration, and Marketing spend in different states using a trained model.
 
 ---
 
